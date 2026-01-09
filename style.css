@@ -1,0 +1,87 @@
+#p1{
+    font-size: 200%; position: absolute; left: 15%;  font-variant: small-caps;
+}
+#p2{
+    font-size: 125%;   position: absolute; right: 20%; font-family: sans-serif;
+}
+#p3{
+    border: 1px solid; font-size: 125%; position: absolute; right: 15%; font-family: sans-serif;
+}
+#p4{
+    border: 1px solid; font-size: 125%; position: absolute; right: 10%; font-family: sans-serif; 
+}
+h1{
+    position: absolute; left: 39%; font-family: sans-serif; 
+}
+#h11{
+    position: absolute; left: 44%;
+}
+#location{
+    position: absolute; left: 36%;
+}
+#search{
+    position: absolute; left: 47%;
+}
+#p5{
+    font-size: 140%;  position: absolute; left: 13%; font-family: sans-serif;  
+}
+
+#img1{
+    position: absolute; left: 13%; width: 108px; height: auto;
+}
+#img2{
+    position: absolute; left: 26%; width: 108px; height: auto;  
+}
+#img3{
+    position: absolute; left: 40%; width: 108px; height: auto;
+}
+#img4{
+    position: absolute; left: 54%; width: 108px; height: auto;
+}
+#img5{
+    position: absolute; left: 68%; width: 108px; height: auto; 
+}
+#img6{
+    position: absolute; left: 82%; width: 108px; height: auto; 
+}
+#fgroc{
+    position: absolute; left: 39%; font-size: 350%; font-family: sans-serif; 
+}
+#fgroc2{
+    position: absolute; left: 43%; font-size: 350%;  font-family: sans-serif;
+}
+#cwork{
+    position: absolute; left: 34%; border: solid plum; font-size: 200%; font-family: sans-serif;   
+}
+#whwating{
+    position: absolute; left: 39%;  font-size: 350%;  font-family: sans-serif;  
+}
+#whwating2{
+    position: absolute; left: 46%; font-size: 350%; font-size: 120%; 
+}
+#p6{
+    font-size: 120%; position: absolute; left: 47%; font-family: sans-serif; 
+}
+#p7{
+    font-size: 120%; position: absolute; left: 48%;  font-family: sans-serif;  
+}
+#p8{
+     font-size: 120%;  position: absolute; left: 49%; font-family: sans-serif; 
+}
+#p9{
+    position: absolute; left: 15%; font-family: sans-serif;
+}
+#p10{
+    position: absolute; left: 13%; font-family: sans-serif;
+}
+#table1{
+    position: absolute; left: 27%; font-family: sans-serif;
+}
+#table2{
+    position: absolute; left: 45%;font-family: sans-serif;
+}
+#p11{
+    position: absolute; left: 13%; font-family: sans-serif;
+}
+
+
